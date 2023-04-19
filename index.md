@@ -1,0 +1,36 @@
+# My Portfolio Projects
+
+---
+
+## Projects_SQL 
+
+[COVID-19 Data Exploration](/Project_SQL_DataExploration/)
+<img src="images/cover photo 1.jpg?raw=true"/>
+
+---
+
+[COVID-19 Data Cleaning](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[Nashville Housing Data Cleaning](/pdf/sample_presentation.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+## Projects_TABLEAU
+
+[COVID-19 Data Visualization](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+## Projects_EXCEL
+
+[Bike Buyers Analysis](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+<p style="font-size:11px">
