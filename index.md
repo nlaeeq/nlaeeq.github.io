@@ -28,8 +28,8 @@
 
 ## Projects_EXCEL
 
-[Bike Buyers Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bike Buyers Data Analysis](/BikeBuyers_DataAnalysis/)
+<img src="images/cover-photo-4.jpg?raw=true"/>
 
 ---
 
