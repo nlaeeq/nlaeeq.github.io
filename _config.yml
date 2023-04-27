@@ -1,10 +1,10 @@
 title: Numra Laeeq # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Welcome! 
   <br><br>
-  
- 
+  This is my portfolio website where you can see examples of my work. These projects demonstrate my capacity for handling huge data sets, data cleaning & manipulation and visualizing techniques to find significant insights. 
+  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
