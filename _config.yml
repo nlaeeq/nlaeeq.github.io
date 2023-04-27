@@ -1,18 +1,14 @@
 title: Numra Laeeq # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > Welcome! This is my portfolio website where you can see examples of my work. These projects demonstrate my capacity for handling huge data sets, data cleaning & manipulation and visualizing techniques to find significant insights.
-# your text below (remove <br> elements if you don't need line breaks)
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
-
-  
-  
-  
-  
-  
-  
-  
-  
-
-
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
