@@ -4,7 +4,7 @@
 
 ## Projects_SQL 
 
-[COVID-19 Data Exploration](/Project_SQL_DataExploration/)
+[COVID-19 Data Exploration](/Covid19_DataExploration/)
 <img src="images/cover photo 1.jpg?raw=true"/>
 
 ---
