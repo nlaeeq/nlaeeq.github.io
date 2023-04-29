@@ -4,7 +4,7 @@
 
 ## Projects_SQL 
 
-[COVID-19 Data Exploration](/Project_SQL_DataExploration/)
+[COVID-19 Data Exploration](/Covid19_DataExploration/)
 <img src="images/cover photo 1.jpg?raw=true"/>
 
 ---
@@ -28,8 +28,8 @@
 
 ## Projects_EXCEL
 
-[Bike Buyers Analysis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bike Buyers Data Analysis](/BikeBuyers_DataAnalysis/)
+<img src="images/cover-photo-4.jpg?raw=true"/>
 
 ---
 
