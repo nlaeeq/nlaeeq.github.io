@@ -9,8 +9,8 @@
 
 ---
 
-[COVID-19 Data Cleaning](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Data Cleaning](/Covid19_DataCleaning/)
+<img src="images/cover-photo-2.jpg?raw=true"/>
 
 ---
 
