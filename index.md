@@ -14,8 +14,8 @@
 
 ---
 
-[Nashville Housing Data Cleaning](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nashville Housing Data Cleaning](/NashvilleHousing_DataCleaning/)
+<img src="images/cover-photo-5.jpg?raw=true"/>
 
 ---
 
