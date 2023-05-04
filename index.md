@@ -21,8 +21,8 @@
 
 ## Projects_TABLEAU
 
-[COVID-19 Data Visualization](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[COVID-19 Data Visualization](/Covid19_DataVisualization/)
+<img src="images/cover-photo-3.jpg?raw=true"/>
 
 ---
 
