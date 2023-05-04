@@ -26,11 +26,16 @@
 
 ---
 
+[Airbnb Data Visualization](/Project_SQL_DataExploration/)
+
+
 ## Projects_EXCEL
 
 [Bike Buyers Data Analysis](/BikeBuyers_DataAnalysis/)
 <img src="images/cover-photo-4.jpg?raw=true"/>
 
 ---
+
+
 
 <p style="font-size:11px">
