@@ -26,9 +26,6 @@
 
 ---
 
-[Airbnb Data Visualization](/Project_SQL_DataExploration/)
-
-
 ## Projects_EXCEL
 
 [Bike Buyers Data Analysis](/BikeBuyers_DataAnalysis/)
