@@ -4,6 +4,11 @@
 
 ## Projects_SQL 
 
+[Sakila DVD Data Analysis](/SakilaDVD_DataAnalysis/)
+<img src="images/cover-photo-6.jpg?raw=true"/>
+
+---
+
 [COVID-19 Data Exploration](/Covid19_DataExploration/)
 <img src="images/cover photo 1.jpg?raw=true"/>
 
@@ -11,11 +16,6 @@
 
 [COVID-19 Data Cleaning](/Covid19_DataCleaning/)
 <img src="images/cover-photo-2.jpg?raw=true"/>
-
----
-
-[Nashville Housing Data Cleaning](/NashvilleHousing_DataCleaning/)
-<img src="images/cover-photo-5.jpg?raw=true"/>
 
 ---
 
